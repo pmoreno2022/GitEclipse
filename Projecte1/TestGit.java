@@ -1,6 +1,7 @@
 package git01;
 import java.util.Scanner;
 public class TestGit {
+<<<<<<< HEAD
 
 	public static void main(String[] args) { 
 		Scanner scanner = new Scanner(System.in); 
@@ -9,3 +10,4 @@ public class TestGit {
 		scanner.close();
 	}
 }
+
